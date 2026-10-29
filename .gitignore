@@ -1,0 +1,24 @@
+node_modules
+dist
+.vercel
+
+# --- added during GitHub upload 2026-10-29 ---
+node_modules/
+.venv/
+venv/
+__pycache__/
+.next/
+.cache/
+.turbo/
+.vercel/
+.wrangler/
+.parcel-cache/
+dist/
+.DS_Store
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.dev.vars
+# heavy files kept only on this Mac
